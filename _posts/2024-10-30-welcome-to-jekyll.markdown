@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "헬프터에 오신걸을 환영합니다."
 date:   2024-10-30 17:58:35 +0900
 categories: jekyll update
 ---
