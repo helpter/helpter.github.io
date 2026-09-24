@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
+date: 2026-09-23
 permalink: /about/
+toc: true
 ---
 **_"Online과 Offline을 연결하는 기술 파트너"_**  
 

@@ -101,12 +101,9 @@ minima:
     - title: 헬프터의 threads
       icon: threads
       url: "https://www.threads.net/helpter"
-    - title: 헬프터의 linkedin
-      icon: linkedin
-      url: "https://www.linkedin.com/company/helpter"
     - title: 헬프터의 kakao
       icon: kakao-talk
-      url: "https://pf.kakao.com/_xgqkxbC"
+      url: "https://pf.kakao.com/_NxkxoKxb"
 
   #
 #   Hide syndication feed subscription link.
